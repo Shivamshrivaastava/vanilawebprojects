@@ -1,0 +1,3 @@
+[submodule "excange-rate"]
+	path = excange-rate
+	url = https://github.com/Shivamshrivaastava/excange-rate.git
